@@ -1,0 +1,2 @@
+What is a RESTful API?: https://aws.amazon.com/what-is/restful-api/
+Doy Fielding: https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm

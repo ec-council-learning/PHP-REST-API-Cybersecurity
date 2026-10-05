@@ -1,0 +1,6 @@
+HTTP Method Override – what it is and how a pentester can use it: https://www.sidechannel.blog/en/http-method-override-what-it-is-and-how-a-pentester-can-use-it/
+CVE-2017-16136: https://www.cve.org/CVERecord?id=CVE-2017-16136
+CVE-2020-35239: https://www.cve.org/CVERecord?id=CVE-2020-35239
+CVE-2019-19326: https://www.cve.org/CVERecord?id=CVE-2019-19326
+CVE-2019-10913: https://www.cve.org/CVERecord?id=CVE-2019-10913
+Source code: https://bitbucket.org/demianchuk-sergii/udemy-rest-api-php/pull-requests/4/diff

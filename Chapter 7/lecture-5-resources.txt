@@ -1,0 +1,2 @@
+Source code: https://bitbucket.org/demianchuk-sergii/udemy-rest-api-php/pull-requests/10/diff
+Traps in Processing XML Files: Navigating the Dangers of XXE Vulnerabilities: https://sergiiblog.com/cyber-security-traps-in-processing-xml-files-navigating-the-dangers-of-xxe-vulnerabilities/

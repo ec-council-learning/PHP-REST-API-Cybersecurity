@@ -1,0 +1,2 @@
+Friday the 13th JSON Attacks: https://blackhat.com/docs/us-17/thursday/us-17-Munoz-Friday-The-13th-JSON-Attacks-wp.pdf
+Airbnb – Ruby on Rails String Interpolation led to Remote Code Execution: https://buer.haus/2017/03/13/airbnb-ruby-on-rails-string-interpolation-led-to-remote-code-execution/

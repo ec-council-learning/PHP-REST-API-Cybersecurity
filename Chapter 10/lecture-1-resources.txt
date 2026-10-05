@@ -1,0 +1,3 @@
+Security-Enhanced Linux: https://en.wikipedia.org/wiki/Security-Enhanced_Linux#:~:text=Security%2DEnhanced%20Linux%20(SELinux),mandatory%20access%20controls%20(MAC).
+grsecurity: https://grsecurity.net/
+Server-Side Template Injection: https://portswigger.net/research/server-side-template-injection

@@ -1,0 +1,4 @@
+PetStore Swagger: https://petstore.swagger.io/
+Opencagedata: https://opencagedata.com/openapi.yaml
+Swagger Online: https://editor.swagger.io/
+

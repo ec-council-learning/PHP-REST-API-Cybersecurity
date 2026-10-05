@@ -1,0 +1,3 @@
+Cheat Sheet: Authentication, Authorization & Session Management Vulnerabilities: https://sergiiblog.com/cyber-security-cheat-sheet-authentication-authorization-amp-session-management-vulnerabilities/
+PHP REST API Questionnaire: https://docs.google.com/forms/d/e/1FAIpQLSdXPTF8dMUVO0lPUvqsfoRf2mQpK4y99sP4uBBAAzZqTKDlzw/viewform
+

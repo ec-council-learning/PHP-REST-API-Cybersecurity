@@ -1,0 +1,2 @@
+Source code: https://bitbucket.org/demianchuk-sergii/udemy-rest-api-php/pull-requests/16/diff
+imagemagick-zero-days: https://www.batuta.com/threat/imagemagick-zero-days/
